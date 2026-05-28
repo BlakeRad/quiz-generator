@@ -47,7 +47,7 @@ Get one at [console.anthropic.com](https://console.anthropic.com)
 
 ```bash
 
-git clone [https://github.com/BlakeRad/quiz-generator.git](https://github.com/BlakeRad/quiz-generator.git)
+git clone https://github.com/BlakeRad/quiz-generator.git
 
 cd quiz-generator
 
