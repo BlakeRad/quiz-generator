@@ -48,7 +48,7 @@ Get a free key at [[console.anthropic.com](http://console.anthropic.com)]([https
 
 ```bash
 
-git clone [https://github.com/BlakeRad/quiz-generator.git](https://github.com/YOURUSERNAME/quiz-generator.git)
+git clone [https://github.com/BlakeRad/quiz-generator.git](https://github.com/BlakeRad/quiz-generator.git)
 
 cd quiz-generator
 
@@ -93,18 +93,6 @@ streamlit run [app.py](http://app.py)
 - Building a functional UI with Streamlit
 
 - Error handling for real-world API issues like auth errors and rate limits
-
----
-
-## 📌 Future Improvements
-
-- [ ] Score tracker so users can test themselves
-
-- [ ] Export quiz as PDF
-
-- [ ] Support for uploading notes as a file
-
-- [ ] Deploy to Streamlit Cloud
 
 ---
 
