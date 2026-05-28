@@ -38,8 +38,7 @@ no surprise bills, and no rate limit issues for anyone. It also demonstrates sec
 
 API key handling, which is a real-world engineering requirement.
 
-Get one at [[console.anthropic.com](http://console.anthropic.com)]([https://console.anthropic.com](https://console.anthropic.com))
-
+Get one at [console.anthropic.com](https://console.anthropic.com)
 ---
 
 ## 🚀 Run It Yourself
@@ -76,7 +75,7 @@ ANTHROPIC_API_KEY=your-key-here
 
 ```bash
 
-streamlit run [app.py](http://app.py)
+streamlit run app.py
 
 ```
 
